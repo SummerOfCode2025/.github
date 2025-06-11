@@ -1,6 +1,6 @@
-# 🌟 Welcome to Our Tech Playground! 🚀
+# 🌟 Welcome to The Summer of Code 2025 Tech Playground! 🚀
 
-Hey there, future tech superstars! 👋 Welcome to our organization's GitHub profile. We're excited to have you join us on this amazing journey through the world of modern development. Whether you're a summer intern or just curious about our tech stack, you're in the right place!
+Hey there, future tech superstars! 👋 Welcome to the GitHub profile for this summer's work. We're excited to have you join us on this amazing journey through the world of modern development. Whether you're a summer intern or just curious about our tech stack, you're in the right place!
 
 ## 🎯 What We're All About
 
@@ -65,15 +65,15 @@ Here are some cool project ideas to get you started:
 4. Make your changes
 5. Submit a pull request
 
-## 🌈 Code of Conduct
+## Code of Conduct
 
-We believe in creating an inclusive and welcoming environment for everyone. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
+We believe in creating an inclusive and welcoming environment for everyone. Please read our [Code of Conduct](../CODE_OF_CONDUCT.md) before contributing.
 
-## 🤝 Contributing
+## Contributing
 
-We love contributions! Whether it's fixing a bug, adding a feature, or improving documentation, every contribution counts. Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
+We love contributions! Whether it's fixing a bug, adding a feature, or improving documentation, every contribution counts. Check out our [Contributing Guidelines](../CONTRIBUTING.md) to get started.
 
-## 📚 Additional Resources
+## Additional Resources
 
 - [Node.js Learning Path](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 - [GitHub Learning Lab](https://lab.github.com/)
